@@ -1,0 +1,27 @@
+{
+  "name": "dbit-bot",
+  "version": "1.0.0",
+  "description": "Repo for the [DJS turorials](https://www.youtube.com/watch?v=UcLspwognk0&list=PLWnw41ah3I4ZfNLV3by7nB6JO2WcCc3Wj) on [MenuDocs](https://www.youtube.com/channel/UCpGGFqJP9vYvzFudqnQ-6IA)",
+  "main": "index.js",
+  "dependencies": {
+    "apextab-api": "^1.0.5",
+    "async": "^3.2.0",
+    "common-tags": "^1.8.0",
+    "dateformat": "^3.0.3",
+    "discord.js": "^11.6.1",
+    "erela.js": "^1.1.7",
+    "fs": "^0.0.1-security",
+    "git": "^0.1.5",
+    "node-fetch": "^2.6.0",
+    "overwatch-api": "^0.8.2",
+    "simple-fortnite-api": "^0.1.9",
+    "urban": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "DareQ",
+  "license": "ISC"
+}
